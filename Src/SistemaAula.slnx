@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Aplicaciones/Aplicaciones.csproj" Id="bc46ab30-aa4e-4216-bd41-09686cccf47d" />
+  <Project Path="SistemaAula.API/SistemaAula.API.csproj" />
+  <Project Path="SistemaAula.Domain/SistemaAula.Domain.csproj" />
+  <Project Path="SistemaAula.Infrastructure/SistemaAula.Infrastructure.csproj" />
+</Solution>
